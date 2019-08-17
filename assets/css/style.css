@@ -166,7 +166,7 @@ p {
 
 section.section-block {
     margin: 0 auto;
-    max-width: 960px;
+    max-width: 1080px;
     background-color: #fff;
 }
 
@@ -441,7 +441,7 @@ nav.navbar .collapse {
     flex-grow: 1;
     align-items: center;
     margin: 0 auto;
-    max-width: 960px;
+    max-width: 1080px;
 }
 
 .navbar-nav {
@@ -473,7 +473,7 @@ nav.navbar .collapse {
 }
 
 .navbar-light .navbar-nav .nav-link {
-    font-size: 1.3em;
+    font-size: 1em;
     font-weight: bolder;
     color: rgba(0, 146, 202, 0.6);
 }
@@ -587,7 +587,7 @@ nav.navbar .collapse {
 #main-footer .footer-nav {
     position: relative;
     margin: 0 auto;
-    max-width: 960px;
+    max-width: 1080px;
 }
 
 #main-footer .footer-nav .container {
@@ -618,7 +618,7 @@ ul.bottom-nav li {
     left: 0;
     width: 100%;
     margin: 0 auto;
-    max-width: 960px;
+    max-width: 1080px;
     padding: 10px 0px;
     z-index: 0;
 }
