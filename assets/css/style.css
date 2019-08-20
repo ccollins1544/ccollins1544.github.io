@@ -1,7 +1,7 @@
 /** 
  * MAIN CSS
  * Author:  Christopher Collins
- * Version: 2.2.1
+ * Version: 2.2.2
  * License: none (public domain)
  */
 /*===============[ TABLE OF CONTENTS ]===============
@@ -171,6 +171,8 @@ section.section-block#main-section {
     border-radius: 5px;
     padding-bottom: 15px;
     margin-bottom: 50px;
+    border-color: var(--primary-menu-background);
+    box-shadow: 0px 12px 18px -6px var(--primary-menu-background);
 }
 
 li {
