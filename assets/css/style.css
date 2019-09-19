@@ -96,7 +96,7 @@ body.page-template {
  * header 135 + section margin 50px + footer height 54px = 239px
  */
 .content-wrapper {
-    min-height: calc(100vh - 298px);
+    min-height: calc(100vh - 190px);
 }
 
 h1,
